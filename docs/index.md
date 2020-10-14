@@ -10,3 +10,9 @@
 
 * [A 2D heat-equation solver in C++ with a python GUI](https://github.com/leoEspin/Cpp)
 * [A full Navier-Stokes equations solver in Fortran 90](https://github.com/leoEspin/Fortran90)
+
+## Other stuff
+
+* [Using backtracking to solve the N-queens problem](https://github.com/leoEspin/python/blob/master/nQueens.py)
+  
+  ![](_includes/nqueens.gif)

@@ -15,4 +15,4 @@
 
 * [Using backtracking to solve the N-queens problem](https://github.com/leoEspin/python/blob/master/nQueens.py)
   
-  ![](_includes/nqueens.gif)
+  ![](https://raw.githubusercontent.com/leoEspin/leoespin.github.io/master/docs/_includes/nqueens.gif)

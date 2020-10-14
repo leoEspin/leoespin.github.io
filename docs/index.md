@@ -1,6 +1,6 @@
 ## ML / Data science repos and project web pages
 
-* [Several Statistics - ML - Deep Learning projects](https://leoespin.github.io/python/)
+* [Statistics - ML - Deep Learning projects](https://leoespin.github.io/python/)
 * [Using random forest and decision-tree models to help detect a rare disease](https://leoespin.github.io/CHDI/)
 * [Predicting concrete strength using ](https://leoespin.github.io/concrete_slump/)
 * [A web app for easy interpreation of food labels](https://github.com/leoEspin/concrete_slump)

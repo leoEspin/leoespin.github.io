@@ -1,8 +1,9 @@
 ## ML / Data science repos and project web pages
 
+* [LSTM model for the IMDB dataset](https://github.com/leoEspin/imdb-dataset): Training, deployment and testing code for a sentiment analysis model trained on the IMDB dataset
 * [Statistics - ML - Deep Learning projects](https://leoespin.github.io/python/)
 * [Using random forest and decision-tree models to help detect a rare disease](https://leoespin.github.io/CHDI/)
-* [A web app for easy interpreation of food labels](https://github.com/leoEspin/concrete_slump)
+* [A web app for easy interpretation of food labels](https://github.com/leoEspin/concrete_slump)
 * [Using dog breeds as identifiers of dog owners' disposable income](https://leoespin.github.io/doggyindex/)
 * [ML-Predictions of concrete strength](https://leoespin.github.io/concrete_slump/)
 

@@ -16,6 +16,11 @@
 
 ## Other stuff
 
+* [Sudoku solver](https://github.com/leoEspin/sudoku)
+  
+  ![](https://raw.githubusercontent.com/leoEspin/sudoku/master/solver.gif)
+
+
 * [Using backtracking to solve the N-queens problem](https://github.com/leoEspin/python/blob/master/nQueens.py)
   
   ![](https://raw.githubusercontent.com/leoEspin/leoespin.github.io/master/docs/_includes/nqueens.gif)
